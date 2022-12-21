@@ -1,0 +1,30 @@
+{
+  "name": "mofron-comp-ilinerbox",
+  "version": "0.0.1",
+  "description": "icon liner box component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-ilinerbox.git"
+  },
+  "dependencies": {
+    "mofron-comp-selectbox": "",
+    "mofron-comp-text": "",
+    "mofron-comp-linertxt": "",
+    "mofron-comp-boxicon": "",
+    "mofron-layout-hrzcenter": ""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-ilinerbox/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-ilinerbox#readme"
+}
